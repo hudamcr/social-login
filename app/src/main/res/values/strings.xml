@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialLoginCustomTabs</string>
+    <string name="logged_out">You are not logged in.</string>
+    <string name="logged_in">Hello, %s.</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="error_permission_storage">Harap izinkan storage permission untuk mengambil tangkapan layar</string>
+    <string name="capture_failed">tangkapan layar gagal</string>
+    <string name="capture_success">tangkapan layar berhasil, silakan cek galeri kamu</string>
+</resources>
